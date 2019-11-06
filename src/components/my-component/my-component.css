@@ -1,0 +1,8 @@
+:root {
+  --my-color: #f00;
+}
+
+my-component {
+  background-color: var(--my-color);
+  display: inline-block;
+}
