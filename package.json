@@ -25,12 +25,12 @@
     "build-storybook": "build-storybook"
   },
   "devDependencies": {
-    "@babel/core": "^7.7.0",
-    "@stencil/core": "1.7.5",
-    "@storybook/addon-actions": "^5.2.5",
-    "@storybook/addon-links": "^5.2.5",
-    "@storybook/addons": "^5.2.5",
-    "@storybook/react": "^5.2.5",
+    "@babel/core": "^7.7.5",
+    "@stencil/core": "^1.8.1",
+    "@storybook/addon-actions": "^5.2.8",
+    "@storybook/addon-links": "^5.2.8",
+    "@storybook/addons": "^5.2.8",
+    "@storybook/react": "^5.2.8",
     "babel-loader": "^8.0.6"
   },
   "license": "MIT",
