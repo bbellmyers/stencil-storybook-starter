@@ -11,8 +11,6 @@
 
 ## Building and Publishing Storybook
 
-In order to build and publish, the dev server for stencil must be running. From there you can run
-
 ```bash
 # using npm
 npm run build-storybook
